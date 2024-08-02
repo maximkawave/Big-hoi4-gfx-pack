@@ -1,0 +1,40 @@
+how to make KR-style portraits:
+https://docs.google.com/document/d/1mTlQGEW2Jaezg4xsUQyg5ApnoG4MZLrc045IyBtOz-w/edit
+https://docs.google.com/document/d/1GHw8zh1muk5AKnU1cCwJvhG-sH2WVwYWLE5lNm5k5nc/edit 
+
+1) TNO how-to-portrait using paint.net: https://docs.google.com/document/d/1KIl8S5o2eQYFZrOYvPUX0EwPOdlbV2O5Kkkmzz0OhHY/edit
+2) TNO how-to-portrait using Photoshop:
+https://docs.google.com/document/d/1Glj4Lh6gOMiFursodF_Vc1xrY__ivQi3ptAMiaR6CPk/edit
+
+https://github.com/hoi4dude/hoi4-vanilla-style-ai-model-by-Crispyasianalpaga-on-reddit/tree/model
+
+transplants:
+https://docs.google.com/document/d/1zbSBKrkOQPB92_ygcpSBGuaQvP5zEh2QjgGj1mmZX8k/edit
+https://docs.google.com/document/d/1zbSBKrkOQPB92_ygcpSBGuaQvP5zEh2QjgGj1mmZX8k/edit (русский)
+
+How to anime portraits:
+https://docs.google.com/document/d/1VdgXPeeUCalEcaasZmoelckVMbojsVeZyIP6BMIAEQA/edit?usp=drivesdk
+
+Tno portraits (русский язык):
+https://docs.google.com/document/d/1f--uQqnbiQIMQB9h2tZNemP7xCD_WU7dy-hM5yku6ow/edit
+
+Red flood portrait guide:
+https://docs.google.com/document/d/1ZIGdm-oB25tC0aRQshp_0J5aINo5mwRQdnenevYPZ2o/edit
+
+TFR Potrait guide:
+https://docs.google.com/document/d/1GiPZ05FinCLI6QwuoXuS0b9MpkX9dJFJBE14XJZxoxo/edit
+
+https://docs.google.com/document/d/1ST9C2NdWfrhujCRaBmlQQHjBN4yQ2cJPPQucqGHXQEY/edit?usp=sharing - Dog231's Portrait Guide (Aging Guide)
+
+source restore guide - https://docs.google.com/document/d/1Rhs5E5KLtum0oCpyh5xL_3cGGjoN9_VoRqe130z6y1g/edit
+
+
+How to remove "alamy" watermarks. Free guide for you boys:
+
+Find the image id. Should be at the bottom right corner.
+
+Now you paste the id on a link like this: https: //c7.alamy.com/zooms/15/(imageid)/(image id).jpg
+
+Eample:
+My id: CPJ1EG
+Result: https://c7.alamy.com/zooms/15/CPJ1EG/CPJ1EG.jpg
